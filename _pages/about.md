@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Shih-Chi Liao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Shih-Chi Liao
-
 ## Welcome!
 
-TBI
+(work in progress ...)
