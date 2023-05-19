@@ -34,12 +34,9 @@ Research experience
   
 Skills
 ======
-* Programming
-  * Python, MATLAB/Simulink
-* Optimization software
-  * CVX, cvxpy
-* Embedded Systems
-  * NI myRIO, Arduino, Raspberry Pi, BeagleBone
+* Programming: Python, MATLAB/Simulink
+* Optimization software: CVX, cvxpy
+* Embedded Systems: NI myRIO, Arduino, Raspberry Pi, BeagleBone
   
 Languages
 ======
