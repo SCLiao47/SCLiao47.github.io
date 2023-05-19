@@ -11,32 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biomechatronics, National Taiwan University, 2014
-* M.S. in Robotics, University of Michigan, Ann Arbor, 2020
 * Ph.D in Electrical and Computer Engineering, University of Michigan, Ann Arbor, 2025 (expected)
+* M.S. in Robotics, University of Michigan, Ann Arbor, 2020
+* B.S. in Biomechatronics, National Taiwan University, 2014
 
-<!-- Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2020 - Present: Graduate Student Research Assistant
+  * Seiler Controls Lab (Advisor: Prof. Peter Seiler), University of Michigan, Ann Arbor
+  * Safety-ciritcal control
+  * Nonlinear stability analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2017 - January 2019: Undergraduate Research Assistant
+  * Bio-inspired Robotics Laboratory (Advisor: Prof. Pei-Chun Lin), National Taiwan University
+  * Visual servo tracking of an automatic filming system
+  * Visual-servo control, image processing, embedded system
+
+* July 2016 - July 2018: Undergraduate Research Assistant
+  * Biophotonics and Bioimaging Laboratory (Advisor: Prof. Ta-Te Lin), Nation Taiwan University
+  * Fruit recognition and localization system using an RGB-D sensor
+  * Machine learning, image processing, computer vision
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python, MATLAB/Simulink
+* Optimization software
+  * CVX, cvxpy
+* Embedded Systems
+  * NI myRIO, Arduino, Raspberry Pi, BeagleBone
+  
+Languages
+======
+* English
+* Mandarin Chinese
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,8 +62,5 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+  {% endfor %}</ul> -->
+
