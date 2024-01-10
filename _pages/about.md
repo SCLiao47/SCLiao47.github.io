@@ -19,9 +19,11 @@ My research interests broadly cover control theory, mathematical optimization, a
 ![3MT_summary](/images/Projects/Fall23_3MT_ImageSummary.png)
 <!-- *Presentation from 3-Minute Thesis Competition at UMich in Fall 2023.* -->
 
-Currently, my research focuses on bridging data-driven methods and robust control techniques to certify the stability of fluid flows. Our methods can also be used to analyze other complex nonlinear system such as neural networks. You can find my previous works [here](/publications/), which includes ensuring safety of systems under uncertainties using Robust Control Barrier Function (RCBF) and computing Region of Attraction (ROA) of nonlinear systems using Quadratic Constraints. Through the above research projects, I have experiences with the following concepts and ideas:
+Currently, my research focuses on bridging data-driven methods and robust control techniques to certify the stability of fluid flows. Our methods can also be used to analyze other complex nonlinear system such as neural networks. You can find my previous works [here](/publications/), which includes ensuring safety of systems under uncertainties using Robust Control Barrier Function (RCBF) and computing Region of Attraction (ROA) of nonlinear systems using Quadratic Constraints. 
+
+Through these research projects, I have experiences with the following concepts and ideas:
 - Control theory: Lyapunov Stability, Dissipativity Theory, Control Barrier Function (CBF)
-- Optimization: Convex Optimization, Semidefinite Optimization, KKT Conditions and Duality 
+- Optimization: Convex Optimization, Semidefinite Optimization, Duality Theory 
 
 ## A bit more about me
 Before starting the Ph.D. program in January 2021, I received a Master of Robotics at University of Michigan, Ann Arbor in December 2020 and a Bachelor of Science in Engineering at National Taiwan University in January 2019. During that time, I built a few robots, broke them, and tried to make them work again. 
