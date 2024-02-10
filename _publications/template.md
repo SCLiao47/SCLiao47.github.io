@@ -1,14 +1,14 @@
----
-title: "Robust Control Barrier Functions with Sector-bounded Uncertainties"
+<!-- ---
+title: "Paper Title"
 collection: publications
-permalink: /publication/202112-RCBF
-excerpt: 'This paper focuses on safety-cirical control under uncertainties. Robust control barrier functions are proposed, and convex optimization problem are formulated to ensure the safety of the uncertain system.'
-imagesummary: '/images/Projects/RCBF_sketch.png'
-date: 2021-12-20
+permalink: /publication/[link]
+excerpt: 'This paper focuses ...'
+imagesummary: '/images/Projects/[FILE]'
+date: [2021-12-20]
 venue: 'IEEE Control Systems Letters'
 paperurl: 'https://doi.org/10.1109/LCSYS.2021.3136653'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-authors: 'Jyot Buch, <b>Shih-Chi Liao</b>, Peter Seiler'
+authors: 'Jyot Buch; <b>Shih-Chi Liao</b>; Peter Seiler'
 ---
 
 \[[Paper on IEEE](https://doi.org/10.1109/LCSYS.2021.3136653)\] / 
@@ -35,4 +35,4 @@ This letter focuses on safety-critical control with sector-bounded uncertainties
   doi={10.1109/LCSYS.2021.3136653}}
 ```
 
-----
+---- -->

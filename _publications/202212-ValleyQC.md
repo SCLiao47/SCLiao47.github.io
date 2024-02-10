@@ -8,7 +8,7 @@ date: 2022-12-6
 venue: '2022 IEEE 61st Conference on Decision and Control (CDC)'
 paperurl: 'https://doi.org/10.1109/CDC51059.2022.9992343'
 # citation: 'Shih-Chi Liao; Maziar S. Hemati; Peter Seiler'
-authors: ' <b>Shih-Chi Liao</b>; Maziar S. Hemati; Peter Seiler'
+authors: ' <b>Shih-Chi Liao</b>, Maziar S. Hemati, Peter Seiler'
 ---
 
 \[[Paper on IEEE](https://doi.org/10.1109/CDC51059.2022.9992343)\] / 
